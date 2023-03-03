@@ -1,0 +1,12 @@
+C:\Users\diksha.dahiya\Dependenci\DIEXData\bin\Debug\net7.0\DIEXData.deps.json
+C:\Users\diksha.dahiya\Dependenci\DIEXData\bin\Debug\net7.0\DIEXData.dll
+C:\Users\diksha.dahiya\Dependenci\DIEXData\bin\Debug\net7.0\DIEXData.pdb
+C:\Users\diksha.dahiya\Dependenci\DIEXData\obj\Debug\net7.0\DIEXData.csproj.AssemblyReference.cache
+C:\Users\diksha.dahiya\Dependenci\DIEXData\obj\Debug\net7.0\DIEXData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diksha.dahiya\Dependenci\DIEXData\obj\Debug\net7.0\DIEXData.AssemblyInfoInputs.cache
+C:\Users\diksha.dahiya\Dependenci\DIEXData\obj\Debug\net7.0\DIEXData.AssemblyInfo.cs
+C:\Users\diksha.dahiya\Dependenci\DIEXData\obj\Debug\net7.0\DIEXData.csproj.CoreCompileInputs.cache
+C:\Users\diksha.dahiya\Dependenci\DIEXData\obj\Debug\net7.0\DIEXData.dll
+C:\Users\diksha.dahiya\Dependenci\DIEXData\obj\Debug\net7.0\refint\DIEXData.dll
+C:\Users\diksha.dahiya\Dependenci\DIEXData\obj\Debug\net7.0\DIEXData.pdb
+C:\Users\diksha.dahiya\Dependenci\DIEXData\obj\Debug\net7.0\ref\DIEXData.dll
